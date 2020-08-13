@@ -1,0 +1,12 @@
+For some reason it took me actual ages to complete this simple tutorial...
+Things to remember:
+    To start venv/ -venv/Scripts/activate
+    To start the server/ -python manage.py runserver
+    To create new project/ django-admin startproject project_name
+    Remember to reorder everything inside root folder and move manage.py to root
+    To create new app/ python manage.py startapp apap_name
+    Create templates folder inside main project
+    To enter shell do this/ python manage.py shell
+    To create super user/ python manage.py createsuperuser
+
+https://realpython.com/get-started-with-django-1/#share-your-knowledge-with-a-blog
