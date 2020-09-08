@@ -1,6 +1,8 @@
 For some reason it took me actual ages to complete this simple tutorial...
 Things to remember:
+    To first create the virtual environment/ python -m venv "name of folder. venv is great a option"
     To start venv/ -venv/Scripts/activate
+    To download and install django/ pip install django  
     To start the server/ -python manage.py runserver
     To create new project/ django-admin startproject project_name
     Remember to reorder everything inside root folder and move manage.py to root
